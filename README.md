@@ -1,4 +1,4 @@
-# The first tutorial for KAIM 3 week 0
+# The first tutorial for KAIM 3 week 1
 
 Steps to Run the Project
 
